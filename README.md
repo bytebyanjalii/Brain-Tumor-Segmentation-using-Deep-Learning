@@ -1,6 +1,6 @@
 🧠 Brain Tumor Segmentation Using Deep Learning 🧠
 
-We have developed a deep learning–powered system for the automated segmentation of brain tumors from MRI scans 🧬🖼️. Leveraging the power of Convolutional Neural Networks (CNNs) and a U-Net-based architecture 🧱, the model accurately identifies and delineates tumor regions across various MRI modalities such as T1, T2, and FLAIR 🧾.
+I have developed a deep learning–powered system for the automated segmentation of brain tumors from MRI scans 🧬🖼️. Leveraging the power of Convolutional Neural Networks (CNNs) and a U-Net-based architecture 🧱, the model accurately identifies and delineates tumor regions across various MRI modalities such as T1, T2, and FLAIR 🧾.
 
 📦 Dataset:
 Our model was trained and evaluated on the widely used BraTS dataset 🧑‍⚕️🗂️, which contains labeled MRI images with expert annotations for tumor core, enhancing tumor, and edema.
